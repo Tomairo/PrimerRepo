@@ -22,12 +22,12 @@ Somos una empresa de desarrollo de software conformado por alumnos de EAP de Ing
 
 El siguiente sistema se encuentra en desarollo por el equipo de Yupanqui Software Solution con los siguientes roles:
 
-| Roles                                              | Nombres                                                                                                                         |
-|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Jefe de Proyecto                                   | La Rosa Sánchez Arellán Carlos Enrique                                                                                          |
-| Gestor de gestión de la configuración              | Tomairo Huamanraime Juan Junior                                                                                                 |
-| Bibliotecario                                      | Acuña Corahua Billy Kent                                                                                                        |
-| Comité de control de cambios                       | Huayta Molleda Luis Elías                                                                                                       |
-| Equipo de desarrollo Android                       | Acuña Corahua Billy Kent <br>La Rosa Sánchez Arellán Carlos Enrique <br>Montes Ramos Ruben Eduardo                              |
-| Equipo de desarrollo del Servidor en la Nube       | Condori Guerra Kilder Renzo <br>Cornejo Pereira Cristian Daniel <br>Huayta Molleda Luis Elías <br>Pezo Castilla Gustavo Armando |
-| Equipo de desarrollo del Servidor del Raspberry Pi | San Bartolomé Sandoval Carlos Antonio <br>Tomairo Huamanraime Juan Junior                                                       |
+| Roles                                              | Nombres                                                                                                                                      |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Jefe de Proyecto                                   | La Rosa Sánchez Arellán Carlos Enrique                                                                                                       |
+| Gestor de gestión de la configuración              | Tomairo Huamanraime Juan Junior                                                                                                              |
+| Bibliotecario                                      | Acuña Corahua Billy Kent                                                                                                                     |
+| Comité de control de cambios                       | Huayta Molleda Luis Elías                                                                                                                    |
+| Equipo de desarrollo Android                       | Acuña Corahua Billy Kent <br>La Rosa Sánchez Arellán Carlos Enrique <br>Montes Ramos Ruben Eduardo <br>San Bartolomé Sandoval Carlos Antonio |
+| Equipo de desarrollo del Servidor en la Nube       | Condori Guerra Kilder Renzo <br>Cornejo Pereira Cristian Daniel <br>Huayta Molleda Luis Elías <br>Pezo Castilla Gustavo Armando              |
+| Equipo de desarrollo del Servidor del Raspberry Pi | Tomairo Huamanraime Juan Junior                                                                                                              |
