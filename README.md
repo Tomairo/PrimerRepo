@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/3WtFrfJ/logo.png" title="Yupanqui Software Solutions" height="200" />
+# <img src="https://i.ibb.co/3WtFrfJ/logo.png" title="Yupanqui Software Solutions" height="160" />
 
 Somos una empresa de desarrollo de software conformado por alumnos de EAP de Ingeniería de Software de la Facultad de Ingeniería de Sistemas e Informática interesados en buscar soluciones tecnológicas de calidad a través de un equipo profesional y preparado.
 
