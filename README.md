@@ -31,7 +31,9 @@ El siguiente sistema se encuentra en desarollo por el equipo de Yupanqui Softwar
 | Equipo de Desarrollo de Servidor en la Nube       | Condori Guerra Kilder Renzo <br>Cornejo Pereira Cristian Daniel **(Líder)**<br>Huayta Molleda Luis Elías <br>Pezo Castilla Gustavo Armando       |
 | Equipo de Desarrollo de Servidor Local | La Rosa Sánchez Arellán Carlos Enrique **(Líder)**                                                                                               |
 
-### Cronograma
+### Cronograma de Actividades
+
+**SafeHome** se elaborará a base de un cronograma de actividades con el fin de realizar un seguimiento del progreso del proyecto. Se tendrá consideración sobre los días domingos como días no laborables para todo el equipo del proyecto.
 
 <img src="https://i.ibb.co/zrtNxtb/cronograma1.png" title="Cronograma"/>
 
