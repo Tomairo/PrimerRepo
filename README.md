@@ -33,8 +33,7 @@ El siguiente sistema se encuentra en desarollo por el equipo de Yupanqui Softwar
 
 ### Cronograma
 
-<img src="https://i.ibb.co/LnS1TS1/Captura.png" title="Cronograma"/>
-
+<img src="https://i.ibb.co/zrtNxtb/cronograma1.png" title="Cronograma"/>
 
 <img src="https://i.ibb.co/Q6WrFms/cronograma2.png" title="Cronograma2"/>
 
