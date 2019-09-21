@@ -33,5 +33,6 @@ El siguiente sistema se encuentra en desarollo por el equipo de Yupanqui Softwar
 
 ### Cronograma
 
+<img src="https://i.ibb.co/LnS1TS1/Captura.png" title="Cronograma"/>
 
 
