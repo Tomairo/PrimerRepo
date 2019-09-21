@@ -27,9 +27,9 @@ El siguiente sistema se encuentra en desarollo por el equipo de Yupanqui Softwar
 | Jefe de Proyecto                                   | La Rosa Sánchez Arellán Carlos Enrique                                                                                                |
 | Jefe de la Gestión y Configuración del Software              | Acuña Corahua Billy                                                                                                        |
 | Comité de Control de Cambios                       | Huayta Molleda Luis Elías                                                                                                             |
-| Equipo de Desarrollo Android                       | Acuña Corahua Billy Kent **(Líder)**<br>Montes Ramos Ruben Eduardo <br>San Bartolomé Sandoval Carlos Antonio <br>Tomairo Huamanraime Juan Junior |
-| Equipo de Desarrollo del Servidor en la Nube       | Condori Guerra Kilder Renzo <br>Cornejo Pereira Cristian Daniel **(Líder)**<br>Huayta Molleda Luis Elías <br>Pezo Castilla Gustavo Armando       |
-| Equipo de Desarrollo del Servidor del Raspberry Pi | La Rosa Sánchez Arellán Carlos Enrique **(Líder)**                                                                                               |
+| Equipo de Desarrollo de Aplicación Móvil                       | Acuña Corahua Billy Kent **(Líder)**<br>Montes Ramos Ruben Eduardo <br>San Bartolomé Sandoval Carlos Antonio <br>Tomairo Huamanraime Juan Junior |
+| Equipo de Desarrollo de Servidor en la Nube       | Condori Guerra Kilder Renzo <br>Cornejo Pereira Cristian Daniel **(Líder)**<br>Huayta Molleda Luis Elías <br>Pezo Castilla Gustavo Armando       |
+| Equipo de Desarrollo de Servidor Local | La Rosa Sánchez Arellán Carlos Enrique **(Líder)**                                                                                               |
 
 ### Cronograma
 
