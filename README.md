@@ -16,7 +16,7 @@ Somos una empresa de desarrollo de software conformado por alumnos de EAP de Ing
 
 ## Proyectos
 
-### Sistema Inteligente de Seguridad para Hogares (SISH)
+### Sistema Inteligente de Seguridad para el Hogar (SISH)
 
 **SafeHome** es el proyecto basado en el reconocimiento facial para la seguridad de hogares con un alto rendimiento en la identificación de rostros captados a partir de imágenes.
 
@@ -30,6 +30,8 @@ El siguiente sistema se encuentra en desarollo por el equipo de Yupanqui Softwar
 | Equipo de Desarrollo Android                       | Acuña Corahua Billy Kent **(Líder)**<br>Montes Ramos Ruben Eduardo <br>San Bartolomé Sandoval Carlos Antonio <br>Tomairo Huamanraime Juan Junior |
 | Equipo de Desarrollo del Servidor en la Nube       | Condori Guerra Kilder Renzo <br>Cornejo Pereira Cristian Daniel **(Líder)**<br>Huayta Molleda Luis Elías <br>Pezo Castilla Gustavo Armando       |
 | Equipo de Desarrollo del Servidor del Raspberry Pi | La Rosa Sánchez Arellán Carlos Enrique **(Líder)**                                                                                               |
+
+### Cronograma
 
 
 
