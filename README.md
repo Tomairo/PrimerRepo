@@ -1,5 +1,5 @@
-# <img src="https://i.ibb.co/3WtFrfJ/logo.png" title="Yupanqui Software Solutions" height="160" />
-
+# Yupanqui Software Solutions
+## Sistema Inteligente de Seguridad para el Hogar
 ## Linea Base
 
 
